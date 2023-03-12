@@ -3,7 +3,7 @@
     "Name": "Hvede",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e2/Wheat.png",
     "Level": 1,
-    "Price": 3
+    "Price": 3,
     "Hours": 0,
     "Minutes": 2,
     "Xp": 1,
@@ -13,7 +13,7 @@
     "Name": "Majs",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png",
     "Level": 2,
-    "Price": 7
+    "Price": 7,
     "Hours": 0,
     "Minutes": 5,
     "Xp": 1,
