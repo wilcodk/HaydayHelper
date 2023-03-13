@@ -218,5 +218,65 @@
     "Minutes": 45,
     "Xp": 3,
     "Source": "Mark"
+  },
+  {
+    "Name": "Oliven",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/5f/Olive.png",
+    "Level": 57,
+    "Price": 82,
+    "Hours": 24,
+    "Minutes": 0,
+    "Xp": 17,
+    "Source": "Træ"
+  },
+  {
+    "Name": "Salat",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/da/Lettuce.png",
+    "Level": 58,
+    "Price": 32,
+    "Hours": 3,
+    "Minutes": 30,
+    "Xp": 7,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Hvidløg",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/cc/Garlic.png",
+    "Level": 60,
+    "Price": 14,
+    "Hours": 0,
+    "Minutes": 30,
+    "Xp": 3,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Solsikke",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/81/Sunflower.png",
+    "Level": 63,
+    "Price": 21,
+    "Hours": 1,
+    "Minutes": 30,
+    "Xp": 5,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Rødkål",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/cc/Cabbage.png",
+    "Level": 65,
+    "Price": 18,
+    "Hours": 0,
+    "Minutes": 45,
+    "Xp": 3,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Citron",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/35/Lemon.png",
+    "Level": 66,
+    "Price": 93,
+    "Hours": 30,
+    "Minutes": 0,
+    "Xp": 18,
+    "Source": "Træ"
   }
 ]
