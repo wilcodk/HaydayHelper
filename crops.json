@@ -128,5 +128,45 @@
     "Minutes": 0,
     "Xp": 16,
     "Source": "Mark"
+  },
+  {
+    "Name": "Tomat",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9d/Tomato.png",
+    "Level": 30,
+    "Price": 43,
+    "Hours": 6,
+    "Minutes": 0,
+    "Xp": 8,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Jordbær",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6d/Strawberry.png",
+    "Level": 34,
+    "Price": 50,
+    "Hours": 8,
+    "Minutes": 0,
+    "Xp": 10,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Kartoffel",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c2/Potato.png",
+    "Level": 35,
+    "Price": 36,
+    "Hours": 3,
+    "Minutes": 40,
+    "Xp": 7,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Kakao",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/60/Cacao.png",
+    "Level": 36,
+    "Price": 86,
+    "Hours": 34,
+    "Minutes": 0,
+    "Xp": 16,
+    "Source": "Busk"
   }
 ]
