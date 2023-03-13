@@ -168,5 +168,55 @@
     "Minutes": 0,
     "Xp": 16,
     "Source": "Busk"
+  },
+  {
+    "Name": "Kaffebønner",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/33/Coffee_Bean.png",
+    "Level": 42,
+    "Price": 64,
+    "Hours": 25,
+    "Minutes": 0,
+    "Xp": 12,
+    "Source": "Busk"
+  },
+  {
+    "Name": "Sesam",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/07/Sesame.png",
+    "Level": 50,
+    "Price": 18,
+    "Hours": 1,
+    "Minutes": 0,
+    "Xp": 4,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Ananas",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/fb/Pineapple.png",
+    "Level": 52,
+    "Price": 14,
+    "Hours": 0,
+    "Minutes": 30,
+    "Xp": 3,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Lilje",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/0a/Lily.png",
+    "Level": 53,
+    "Price": 21,
+    "Hours": 1,
+    "Minutes": 30,
+    "Xp": 5,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Ris",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/da/Rice.png",
+    "Level": 56,
+    "Price": 18,
+    "Hours": 0,
+    "Minutes": 45,
+    "Xp": 3,
+    "Source": "Mark"
   }
 ]
