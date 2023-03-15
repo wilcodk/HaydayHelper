@@ -278,5 +278,75 @@
     "Minutes": 0,
     "Xp": 18,
     "Source": "Træ"
+  },
+  {
+    "Name": "Løg",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/51/Onion.png",
+    "Level": 68,
+    "Price": 39,
+    "Hours": 5,
+    "Minutes": 0,
+    "Xp": 8,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Agurk",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/59/Cucumber.png",
+    "Level": 70,
+    "Price": 14,
+    "Hours": 0,
+    "Minutes": 35,
+    "Xp": 3,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Apelsine",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/43/Orange.png",
+    "Level": 71,
+    "Price": 97,
+    "Hours": 31,
+    "Minutes": 0,
+    "Xp": 19,
+    "Source": "Træ"
+  },
+  {
+    "Name": "Rødbede",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/56/Beetroot.png",
+    "Level": 72,
+    "Price": 14,
+    "Hours": 0,
+    "Minutes": 40,
+    "Xp": 3,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Peber",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e2/Bell_Pepper.png",
+    "Level": 74,
+    "Price": 36,
+    "Hours": 4,
+    "Minutes": 30,
+    "Xp": 7,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Fersken",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e2/Peach.png",
+    "Level": 76,
+    "Price": 100,
+    "Hours": 30,
+    "Minutes": 0,
+    "Xp": 20,
+    "Source": "Træ"
+  },
+  {
+    "Name": "Ingefær",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/85/Ginger.png",
+    "Level": 78,
+    "Price": 28,
+    "Hours": 2,
+    "Minutes": 30,
+    "Xp": 6,
+    "Source": "Mark"
   }
 ]
