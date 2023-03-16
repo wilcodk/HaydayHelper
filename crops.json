@@ -348,5 +348,155 @@
     "Minutes": 30,
     "Xp": 6,
     "Source": "Mark"
+  },
+  {
+    "Name": "Te blade",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e3/Tea_Leaf.png",
+    "Level": 80,
+    "Price": 43,
+    "Hours": 6,
+    "Minutes": 30,
+    "Xp": 9,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Pæon",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/50/Peony.png",
+    "Level": 82,
+    "Price": 36,
+    "Hours": 4,
+    "Minutes": 0,
+    "Xp": 7,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Broccoli",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f1/Broccoli.png",
+    "Level": 83,
+    "Price": 21,
+    "Hours": 1,
+    "Minutes": 20,
+    "Xp": 4,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Vindrue",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/39/Grapes.png",
+    "Level": 84,
+    "Price": 32,
+    "Hours": 3,
+    "Minutes": 0,
+    "Xp": 6,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Mynte",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/13/Mint.png",
+    "Level": 85,
+    "Price": 32,
+    "Hours": 3,
+    "Minutes": 0,
+    "Xp": 6,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Banan",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/69/Banana.png",
+    "Level": 88,
+    "Price": 108,
+    "Hours": 27,
+    "Minutes": 0,
+    "Xp": 20,
+    "Source": "Træ"
+  },
+  {
+    "Name": "Passions frugt",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/fb/Passion_Fruit.png",
+    "Level": 88,
+    "Price": 18,
+    "Hours": 1,
+    "Minutes": 0,
+    "Xp": 4,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Champignon",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8c/Mushroom.png",
+    "Level": 89,
+    "Price": 10,
+    "Hours": 0,
+    "Minutes": 20,
+    "Xp": 2,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Aubergine",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8f/Eggplant.png",
+    "Level": 90,
+    "Price": 14,
+    "Hours": 0,
+    "Minutes": 40,
+    "Xp": 3,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Vandmelon",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/06/Watermelon.png",
+    "Level": 92,
+    "Price": 39,
+    "Hours": 5,
+    "Minutes": 0,
+    "Xp": 3,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Blomme",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e6/Plum.png",
+    "Level": 94,
+    "Price": 82,
+    "Hours": 25,
+    "Minutes": 0,
+    "Xp": 16,
+    "Source": "Træ"
+  },
+  {
+    "Name": "Ler",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a2/Clay.png",
+    "Level": 94,
+    "Price": 18,
+    "Hours": 1,
+    "Minutes": 50,
+    "Xp": 5,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Kikært",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/02/Chickpea.png",
+    "Level": 95,
+    "Price": 18,
+    "Hours": 1,
+    "Minutes": 0,
+    "Xp": 4,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Mango",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/38/Mango.png",
+    "Level": 97,
+    "Price": 100,
+    "Hours": 32,
+    "Minutes": 0,
+    "Xp": 20,
+    "Source": "Træ"
+  },
+  {
+    "Name": "Guava",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/87/Guava.png",
+    "Level": 104,
+    "Price": 111,
+    "Hours": 34,
+    "Minutes": 0,
+    "Xp": 22,
+    "Source": "Træ"
   }
 ]
