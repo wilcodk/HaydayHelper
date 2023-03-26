@@ -1,0 +1,172 @@
+[
+  {
+    "Name": "Hvede",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e2/Wheat.png",
+    "Level": 1,
+    "Price": 3,
+    "Hours": 0,
+    "Minutes": 2,
+    "Xp": 1,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Majs",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png",
+    "Level": 2,
+    "Price": 7,
+    "Hours": 0,
+    "Minutes": 5,
+    "Xp": 1,
+    "Source": "Mark"  
+  },
+  {
+    "Name": "Soja",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9e/Soybean.png",
+    "Level": 5,
+    "Price": 7,
+    "Hours": 0,
+    "Minutes": 30,
+    "Xp": 3,
+    "Source": "Mark"  
+  },
+  {
+    "Name": "Sukkerrør",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/03/Sugarcane.png",
+    "Level": 7,
+    "Price": 14,
+    "Hours": 0,
+    "Minutes": 2,
+    "Xp": 1,
+    "Source": "Mark"  
+  },
+  {
+    "Name": "Gulerod",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c3/Carrot.png",
+    "Level": 9,
+    "Price": 7,
+    "Hours": 0,
+    "Minutes": 10,
+    "Xp": 2,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Indigo",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/48/Indigo.png",
+    "Level": 13,
+    "Price": 25,
+    "Hours": 2,
+    "Minutes": 0,
+    "Xp": 5,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Græskar",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/64/Pumpkin.png",
+    "Level": 15,
+    "Price": 32,
+    "Hours": 3,
+    "Minutes": 0,
+    "Xp": 6,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Æble",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7d/Apple.png",
+    "Level": 15,
+    "Price": 39,
+    "Hours": 16,
+    "Minutes": 0,
+    "Xp": 7,
+    "Source": "Træ"
+  },
+  {
+    "Name": "Bomuld",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c3/Cotton.png",
+    "Level": 18,
+    "Price": 28,
+    "Hours": 2,
+    "Minutes": 30,
+    "Xp": 6,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Hindbær",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/1f/Raspberry.png",
+    "Level": 19,
+    "Price": 46,
+    "Hours": 18,
+    "Minutes": 0,
+    "Xp": 9,
+    "Source": "Busk"
+  },
+  {
+    "Name": "Kirsebær",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/20/Cherry.png",
+    "Level": 22,
+    "Price": 68,
+    "Hours": 27,
+    "Minutes": 0,
+    "Xp": 13,
+    "Source": "Træ"
+  },
+  {
+    "Name": "Chillipeber",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/ab/Chili_Pepper.png",
+    "Level": 25,
+    "Price": 36,
+    "Hours": 4,
+    "Minutes": 0,
+    "Xp": 7,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Brombær",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/25/Blackberry.png",
+    "Level": 26,
+    "Price": 82,
+    "Hours": 32,
+    "Minutes": 0,
+    "Xp": 16,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Tomat",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9d/Tomato.png",
+    "Level": 30,
+    "Price": 43,
+    "Hours": 6,
+    "Minutes": 0,
+    "Xp": 8,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Jordbær",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6d/Strawberry.png",
+    "Level": 34,
+    "Price": 50,
+    "Hours": 8,
+    "Minutes": 0,
+    "Xp": 10,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Kartoffel",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c2/Potato.png",
+    "Level": 35,
+    "Price": 36,
+    "Hours": 3,
+    "Minutes": 40,
+    "Xp": 7,
+    "Source": "Mark"
+  },
+  {
+    "Name": "Kakao",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/60/Cacao.png",
+    "Level": 36,
+    "Price": 86,
+    "Hours": 34,
+    "Minutes": 0,
+    "Xp": 16,
+    "Source": "Busk"
+  }
+]
