@@ -548,16 +548,5 @@
     "Minutes": 0,
     "Xp": 22,
     "Source": "Træ"
-  },
-  {
-    "CropId": 51,
-    "Name": "Granatæble",
-    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/87/Guava.png",
-    "Level": 107,
-    "Price": 111,
-    "Hours": 27,
-    "Minutes": 0,
-    "Xp": 45,
-    "Source": "Træ"
   }
 ]
