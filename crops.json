@@ -1,6 +1,5 @@
 [
   {
-    "CropId": 1,
     "Name": "Hvede",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e2/Wheat.png",
     "Level": 1,
@@ -11,7 +10,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 2,
     "Name": "Majs",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png",
     "Level": 2,
