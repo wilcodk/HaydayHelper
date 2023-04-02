@@ -1,6 +1,5 @@
 [
   {
-    "CropId": 1,
     "Name": "Hvede",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e2/Wheat.png",
     "Level": 1,
@@ -11,7 +10,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 2,
     "Name": "Majs",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png",
     "Level": 2,
@@ -22,7 +20,6 @@
     "Source": "Mark"  
   },
   {
-    "CropId": 3,
     "Name": "Soja",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9e/Soybean.png",
     "Level": 5,
@@ -33,7 +30,6 @@
     "Source": "Mark"  
   },
   {
-    "CropId": 4,
     "Name": "Sukkerrør",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/03/Sugarcane.png",
     "Level": 7,
@@ -44,7 +40,6 @@
     "Source": "Mark"  
   },
   {
-    "CropId": 5,
     "Name": "Gulerod",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c3/Carrot.png",
     "Level": 9,
@@ -55,7 +50,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 6,
     "Name": "Indigo",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/48/Indigo.png",
     "Level": 13,
@@ -66,7 +60,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 7,
     "Name": "Græskar",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/64/Pumpkin.png",
     "Level": 15,
@@ -77,7 +70,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 8,
     "Name": "Æble",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/7/7d/Apple.png",
     "Level": 15,
@@ -88,7 +80,6 @@
     "Source": "Træ"
   },
   {
-    "CropId": 9,
     "Name": "Bomuld",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c3/Cotton.png",
     "Level": 18,
@@ -99,7 +90,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 10,
     "Name": "Hindbær",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/1f/Raspberry.png",
     "Level": 19,
@@ -110,7 +100,6 @@
     "Source": "Busk"
   },
   {
-    "CropId": 11,
     "Name": "Kirsebær",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/20/Cherry.png",
     "Level": 22,
@@ -121,7 +110,6 @@
     "Source": "Træ"
   },
   {
-    "CropId": 12,
     "Name": "Chillipeber",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/ab/Chili_Pepper.png",
     "Level": 25,
@@ -132,7 +120,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 13,
     "Name": "Brombær",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/2/25/Blackberry.png",
     "Level": 26,
@@ -143,7 +130,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 14,
     "Name": "Tomat",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/9/9d/Tomato.png",
     "Level": 30,
@@ -154,7 +140,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 15,
     "Name": "Jordbær",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/6d/Strawberry.png",
     "Level": 34,
@@ -165,7 +150,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 16,
     "Name": "Kartoffel",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/c2/Potato.png",
     "Level": 35,
@@ -176,7 +160,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 17,
     "Name": "Kakao",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/60/Cacao.png",
     "Level": 36,
@@ -187,7 +170,6 @@
     "Source": "Busk"
   },
   {
-    "CropId": 18,
     "Name": "Kaffebønner",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/33/Coffee_Bean.png",
     "Level": 42,
@@ -198,7 +180,6 @@
     "Source": "Busk"
   },
   {
-    "CropId": 19,
     "Name": "Sesam",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/07/Sesame.png",
     "Level": 50,
@@ -209,7 +190,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 20,
     "Name": "Ananas",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/fb/Pineapple.png",
     "Level": 52,
@@ -220,7 +200,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 21,
     "Name": "Lilje",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/0a/Lily.png",
     "Level": 53,
@@ -231,7 +210,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 22,
     "Name": "Ris",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/da/Rice.png",
     "Level": 56,
@@ -242,7 +220,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 23,
     "Name": "Oliven",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/5f/Olive.png",
     "Level": 57,
@@ -253,7 +230,6 @@
     "Source": "Træ"
   },
   {
-    "CropId": 24,
     "Name": "Salat",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/d/da/Lettuce.png",
     "Level": 58,
@@ -264,7 +240,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 25,
     "Name": "Hvidløg",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/cc/Garlic.png",
     "Level": 60,
@@ -275,7 +250,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 26,
     "Name": "Solsikke",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/81/Sunflower.png",
     "Level": 63,
@@ -286,7 +260,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 27,
     "Name": "Rødkål",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/c/cc/Cabbage.png",
     "Level": 65,
@@ -297,7 +270,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 28,
     "Name": "Citron",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/35/Lemon.png",
     "Level": 66,
@@ -308,7 +280,6 @@
     "Source": "Træ"
   },
   {
-    "CropId": 29,
     "Name": "Løg",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/51/Onion.png",
     "Level": 68,
@@ -319,7 +290,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 30,
     "Name": "Agurk",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/59/Cucumber.png",
     "Level": 70,
@@ -330,7 +300,6 @@
     "Source": "Mark"
   },
   {
-    "CropId":31,
     "Name": "Apelsine",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/4/43/Orange.png",
     "Level": 71,
@@ -341,7 +310,6 @@
     "Source": "Træ"
   },
   {
-    "CropId": 32,
     "Name": "Rødbede",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/56/Beetroot.png",
     "Level": 72,
@@ -352,7 +320,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 33,
     "Name": "Peber",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e2/Bell_Pepper.png",
     "Level": 74,
@@ -363,7 +330,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 34,
     "Name": "Fersken",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e2/Peach.png",
     "Level": 76,
@@ -374,7 +340,6 @@
     "Source": "Træ"
   },
   {
-    "CropId": 35,
     "Name": "Ingefær",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/85/Ginger.png",
     "Level": 78,
@@ -385,7 +350,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 36,
     "Name": "Te blade",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e3/Tea_Leaf.png",
     "Level": 80,
@@ -396,7 +360,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 37,
     "Name": "Pæon",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/50/Peony.png",
     "Level": 82,
@@ -407,7 +370,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 38,
     "Name": "Broccoli",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/f1/Broccoli.png",
     "Level": 83,
@@ -418,7 +380,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 39,
     "Name": "Vindrue",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/39/Grapes.png",
     "Level": 84,
@@ -429,7 +390,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 40,
     "Name": "Mynte",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/1/13/Mint.png",
     "Level": 85,
@@ -440,7 +400,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 41,
     "Name": "Banan",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/6/69/Banana.png",
     "Level": 88,
@@ -451,7 +410,6 @@
     "Source": "Træ"
   },
   {
-    "CropId": 42,
     "Name": "Passions frugt",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/f/fb/Passion_Fruit.png",
     "Level": 88,
@@ -462,7 +420,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 43,
     "Name": "Champignon",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8c/Mushroom.png",
     "Level": 89,
@@ -473,7 +430,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 44,
     "Name": "Aubergine",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/8f/Eggplant.png",
     "Level": 90,
@@ -484,7 +440,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 45,
     "Name": "Vandmelon",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/06/Watermelon.png",
     "Level": 92,
@@ -495,7 +450,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 46,
     "Name": "Blomme",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e6/Plum.png",
     "Level": 94,
@@ -506,7 +460,6 @@
     "Source": "Træ"
   },
   {
-    "CropId": 47,
     "Name": "Ler",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/a/a2/Clay.png",
     "Level": 94,
@@ -517,7 +470,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 48,
     "Name": "Kikært",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/0/02/Chickpea.png",
     "Level": 95,
@@ -528,7 +480,6 @@
     "Source": "Mark"
   },
   {
-    "CropId": 49,
     "Name": "Mango",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/3/38/Mango.png",
     "Level": 97,
@@ -539,7 +490,6 @@
     "Source": "Træ"
   },
   {
-    "CropId": 50,
     "Name": "Guava",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/8/87/Guava.png",
     "Level": 104,
