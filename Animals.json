@@ -1,0 +1,33 @@
+[
+  {
+    "AnimalId": 1,
+    "Name": "Høne",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e2/Wheat.png",
+    "Level": 1,
+    "Price": 3,
+    "Hours": 0,
+    "Minutes": 2,
+    "Xp": 1,
+    "Source": "Mark",
+    "Produce": "Æg",
+    "Feed": "Hønsefoder"
+  },
+  {
+    "AnimalId": 1,
+    "Name": "Ko",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e2/Wheat.png",
+    "Level": 1,
+    "Price": 3,
+    "Hours": 0,
+    "Minutes": 2,
+    "Xp": 1,
+    "Source": "Mark",
+    "Produce": "Mælk",
+    "Feed": "Kofoder"
+  }
+]
+      
+
+        
+
+   
