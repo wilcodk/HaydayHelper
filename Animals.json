@@ -13,7 +13,7 @@
     "Feed": "Hønsefoder"
   },
   {
-    "AnimalId": 1,
+    "AnimalId": 2,
     "Name": "Ko",
     "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/e/e2/Wheat.png",
     "Level": 1,
@@ -26,8 +26,3 @@
     "Feed": "Kofoder"
   }
 ]
-      
-
-        
-
-   
