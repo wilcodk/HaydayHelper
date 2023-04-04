@@ -50,5 +50,18 @@
     "Source": "Fiskesø",
     "Produce": "Fiskefiletter",
     "Feed": "Ingen"
+  },
+  {
+    "AnimalId": 5,
+    "Name": "Ged",
+    "ImageUrl": "https://static.wikia.nocookie.net/hayday/images/5/52/Goat.png",
+    "Level": 32,
+    "Price": 2150,
+    "Hours": 8,
+    "Minutes": 0,
+    "Xp": 6,
+    "Source": "Gedefold",
+    "Produce": "Gedemælk",
+    "Feed": "Ingen"
   }
 ]
